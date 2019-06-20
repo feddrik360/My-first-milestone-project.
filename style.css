@@ -240,21 +240,6 @@ a:link {
 
 /* --------------------------- Exhibitions*/
 
-input[type=text],
-select,
-textarea {
-  width: 65%;
-  display: block;
-}
-
-label {
-  display: block;
-}
-
-.form {
-  width: 100%;
-}
-
 .works-video {
   padding-left: 15px;
   width: 100%;
@@ -334,8 +319,8 @@ p {
   text-align: center;
   margin-top: auto;
   margin-bottom: auto;
- 
- 
+
+
 }
 
 .about-container {
@@ -349,12 +334,10 @@ p {
     text-align: left;
   }
   .about-image {
-    
     width: 70%;
-    
   }
   .about-container {
-  text-align: center;
+    text-align: center;
   }
 }
 
@@ -375,6 +358,7 @@ p {
 
 .form {
   margin-top: 5%;
+  width: 100%;
 }
 
 .button {
@@ -387,23 +371,3 @@ p {
     margin-top: 1.5%;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
