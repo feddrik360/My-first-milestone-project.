@@ -44,11 +44,11 @@ the contact form is not very functional as when the form gets filled out, the in
 I coded the website on an IDE called Cloud 9. Once it was on there, I uploaded the website on to GITHUB. I would open a new terminal and
 enter in the following:
 
-1.)git init (This was to create the repository)
-2.)git add [file name]
-3.)git commit -m "first commit"
-4.)git remote add origin [site link]
-5.)git push -u origin master
+- 1.)git init (This was to create the repository)
+- 2.)git add [file name]
+- 3.)git commit -m "first commit"
+- 4.)git remote add origin [site link]
+- 5.)git push -u origin master
 
 ## Testing
 
@@ -72,7 +72,7 @@ Examples of testing that I have done :
 
 I have also made sure that the website looks aesthetically pleasing on all different sizes. 
 
-##Credits
+## Credits
 
 All artwork was created by the client, who is currently studying Fine Art at university. I was asked by the client to create this
 website as part of her university project.
