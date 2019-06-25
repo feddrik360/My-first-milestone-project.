@@ -54,6 +54,8 @@ enter in the following:
 - 4.)git remote add origin [site link]
 - 5.)git push -u origin master
 
+The link to my website - https://feddrik360.github.io/My-first-milestone-project./
+
 ## Testing
 
 Throughout the whole project, I made sure to test the website on all a variety of devices via the Chrome Developer Tools.
