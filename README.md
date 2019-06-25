@@ -6,6 +6,10 @@ The purpose of this project is for me to create a font end mobile-first responsi
 is interesed in the clients work will be able to look at lots of different images of the client. They will also be able to do things 
 such as get in touch with the client and get to know about her. 
 
+## UDX
+
+The UDX of this website is on my Github page.
+
 ## Features of the website
 
 Works page - Allows users visiting the site to click on any of the images and view them in a slideshow. The slideshow goes through 
@@ -70,7 +74,9 @@ Examples of testing that I have done :
 - I pressed the "SEND" button on the contacts page, to check that when nothing is filled out an error message will come up.
 - I have filled out the whole form without an '@' sign in the email box, and it does advise an '@' sign is required.
 
-I have also made sure that the website looks aesthetically pleasing on all different sizes. 
+
+I have also made sure that the website looks aesthetically pleasing on all different size. Furthermore, I have made sure to actually
+try the website on my Mobile phone and also on different browsers such as Firefox and Safari.
 
 ## Credits
 
